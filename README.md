@@ -1,1 +1,1 @@
-workshop_test
+gutkraken_class
